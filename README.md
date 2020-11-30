@@ -1,4 +1,4 @@
-# ListOperationsInC
+# List Operations in C
 
 ####This C program implements list operations in C.
 
